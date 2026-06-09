@@ -32,6 +32,11 @@ If you are interested in helping improve Presence for the Matrix community, plea
 
 ---
 
+Last updated: 2026-06-09  
+[This website is open source.][github]
+
+---
+
 [^1]: Synapse has had a meta-issue open about improving presence performance for 5 years: [#9478]
 [^2]: Since 2018, homeserver operators have had performance concerns related to presence, and even raised them
       as bugs in Synapse. [#3971], [#9339]
@@ -42,3 +47,4 @@ If you are interested in helping improve Presence for the Matrix community, plea
 [#3971]: https://github.com/matrix-org/synapse/issues/3971
 [#9339]: https://github.com/matrix-org/synapse/issues/9339
 [#9478]: https://github.com/matrix-org/synapse/issues/9478
+[github]: https://github.com/thetayloredman/ispresencefixedyet.com
