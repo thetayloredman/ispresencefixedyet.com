@@ -32,13 +32,12 @@ If you are interested in helping improve Presence for the Matrix community, plea
 
 ---
 
-<script>
-    window.lastUpdated = new Date("2026-06-10T01:38:00Z");
-</script>
-
 Last updated <span id="last-updated-ago"></span> ago (<span id="last-updated-ts"></span>).  
 [This website is open source.][github]
 
+<script>
+    window.lastUpdated = new Date("{{ site.time | date_to_xmlschema }}");
+</script>
 <script src="./js/last-updated.js"></script>
 
 ---
