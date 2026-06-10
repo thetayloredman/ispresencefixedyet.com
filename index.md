@@ -20,15 +20,15 @@ If you are interested in helping improve Presence for the Matrix community, plea
 
 ## The Proposals
 
-* 🚧 **Selective Presence**, reducing load by only sharing presence with interested parties
-  * **Status:** Internal Draft
-  * **How you can help:** Join [#presence-v2:zirco.dev] and participate in discussion about Selective Presence.
-* 🚧 **Incremental Presence**, reducing load by increasing presence TTLs and providing batching behavior
-  * **Status:** Concept
-* 🔲 **Sliding Sync Extension: Presence**, reducing client-server sync traffic for users not regularly viewed
-  * **Status:** Concept
-* 🔲 **Fetchable Presence**, allowing users to publish presence data without pushing to every possible user
-  * **Status:** Concept
+- 🚧 **Selective Presence**, reducing load by only sharing presence with interested parties
+    - **Status:** Internal Draft
+    - **How you can help:** Join [#presence-v2:zirco.dev] and participate in discussion about Selective Presence.
+- 🚧 **Incremental Presence**, reducing load by increasing presence TTLs and providing batching behavior
+    - **Status:** Concept
+- 🔲 **Sliding Sync Extension: Presence**, reducing client-server sync traffic for users not regularly viewed
+    - **Status:** Concept
+- 🔲 **Fetchable Presence**, allowing users to publish presence data without pushing to every possible user
+    - **Status:** Concept
 
 ---
 
@@ -38,8 +38,10 @@ Last updated: 2026-06-09
 ---
 
 [^1]: Synapse has had a meta-issue open about improving presence performance for 5 years: [#9478]
-[^2]: Since 2018, homeserver operators have had performance concerns related to presence, and even raised them
-      as bugs in Synapse. [#3971], [#9339]
+
+[^2]:
+    Since 2018, homeserver operators have had performance concerns related to presence, and even
+    raised them as bugs in Synapse. [#3971], [#9339]
 
 [Matrix]: https://matrix.org/
 [Continuwuity]: https://continuwuity.org/
