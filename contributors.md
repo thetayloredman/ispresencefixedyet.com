@@ -39,4 +39,5 @@ of which the following contributed:
 * LogN: concepts
 * stratself: concepts
 * lveneris: concepts
+* Cat: inspiration (Incremental Heartbeat-Assisted Presence draft)
 * 31a05b9c: concepts
