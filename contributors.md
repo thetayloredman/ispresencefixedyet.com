@@ -7,10 +7,10 @@ to take the time to recognize every contributor who has made this possible.
 
 ## Early Days
 
-Presence v2 as a concept came rise from [this conversation in #spec](https://matrix.to/#/!nD4Jy1hp0We0VmIM9ubjqWLBX_uV8YlTBBPa3a_v2uk/%24pky9awpkMJUWeJPhTjcPaBZ7EPtAQ6rlKWUs9nCx66s?via=zirco.dev&via=matrix.org&via=element.io),
+Presence v2 as a concept came rise from [this conversation in #spec][spec-convo],
 of which the following contributed:
 
-* LogN
+* [LogN]
 * charmines
 * Andrew Morgan (SCT)
 * Cat
@@ -25,14 +25,14 @@ of which the following contributed:
 
 #### Primary Authors
 
-* LogN
+* [LogN]
 * lveneris
 
 #### Contributors & Reviewers
 
-* **Continuwuity**: nex, Ginger
-* **Nexus Client**: QuadRadical
-* **Sable Client**: 7w1
+* **[Continuwuity]**: nex, Ginger
+* **[Nexus Client]**: QuadRadical
+* **[Sable Client]**: 7w1
 * Independent: stratself, HarHarLinks, Cat, 31a05b9c, CrazyNicc, gamesguru
 
 #### Special Thanks
@@ -45,8 +45,14 @@ of which the following contributed:
 
 #### Concepts
 
-LogN, stratself, lveneris, Cat, 31a05b9c
+[LogN], stratself, lveneris, Cat, 31a05b9c
 
 #### Special Thanks
 
 * To Cat, for work on the Incremental Heartbeat-Assisted Presence draft which heavily inspired LLBP.
+
+[spec-convo]: https://matrix.to/#/!nD4Jy1hp0We0VmIM9ubjqWLBX_uV8YlTBBPa3a_v2uk/%24pky9awpkMJUWeJPhTjcPaBZ7EPtAQ6rlKWUs9nCx66s?via=zirco.dev&via=matrix.org&via=element.io
+[LogN]: https://matrix.to/#/@logn:zirco.dev
+[Continuwuity]: https://continuwuity.org/
+[Nexus Client]: https://matrix.to/#/#nexus:federated.nexus
+[Sable Client]: https://sable.moe/
