@@ -19,25 +19,34 @@ of which the following contributed:
 * nex (Continuwuity)
 * vel
 
-## Proposal Authorship
+## The Proposals
 
 ### Selective Presence
 
-* LogN: primary author
-* lveneris: primary author
-* HarHarLinks: inspiration ([MSC4325](https://github.com/matrix-org/matrix-spec-proposals/pull/4325)), behavior
-* stratself: proposal text, behavior
-* QuadRadical (Nexus Client): client behavior
-* nex (Continuwuity): server behavior
-* Ginger (Continuwuity): server behavior
-* 31a05b9c: behavior
-* 7w1 (Sable Client): client behavior
-* vicky: emotional support & room avatar art
+#### Primary Authors
+
+* LogN
+* lveneris
+
+#### Contributors & Reviewers
+
+* **Continuwuity**: nex, Ginger
+* **Nexus Client**: QuadRadical
+* **Sable Client**: 7w1
+* Independent: stratself, HarHarLinks, Cat, 31a05b9c, CrazyNicc, gamesguru
+
+#### Special Thanks
+
+* To HarHarLinks, for [MSC4325](https://github.com/matrix-org/matrix-spec-proposals/pull/4325) which heavily
+  inspired Selective Presence.
+* To vicky and mangotcf, for providing emotional support through the many discussions
 
 ### Long-Lived & Batched Presence
 
-* LogN: concepts
-* stratself: concepts
-* lveneris: concepts
-* Cat: inspiration (Incremental Heartbeat-Assisted Presence draft)
-* 31a05b9c: concepts
+#### Concepts
+
+LogN, stratself, lveneris, Cat, 31a05b9c
+
+#### Special Thanks
+
+* To Cat, for work on the Incremental Heartbeat-Assisted Presence draft which heavily inspired LLBP.
