@@ -11,7 +11,7 @@ even if the two users have never interacted or spoken otherwise. Additionally, p
 have short TTLs and require regular retransmission, resulting in write amplification which prevents current presence
 from being enabled on major public deployments where it matters most.
 
-A group of community members including maintainers of the [Continuwuity] homeserver began work on a set of proposals
+A [group of community members](/contributors) including maintainers of the [Continuwuity] homeserver began work on a set of proposals
 to dramatically reduce presence's footprint on federation traffic and improve privacy UX for end users. This work,
 dubbed "Presence v2," currently consists of four proposals which will improve presence by improving batching behavior,
 and most importantly, only sharing presence with interested parties.
