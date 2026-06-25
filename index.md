@@ -1,4 +1,4 @@
-[![Matrix](https://matrix.org/images/matrix-logo-white.svg)](https://matrix.org) ![Presence v2 Logo](/assets/logo.png) Is Presence Fixed Yet?
+[![Matrix](https://matrix.org/images/matrix-logo-white.svg)](https://matrix.org) ![Presence v2 Logo](/assets/logo.png){:height="32px"} Is Presence Fixed Yet?
 
 # Not at all. But you can help!
 
