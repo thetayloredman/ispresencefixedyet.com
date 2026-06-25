@@ -20,11 +20,15 @@ If you are interested in helping improve Presence for the Matrix community, plea
 
 ## The Proposals
 
-- 🚧 **Selective Presence**, reducing load by only sharing presence with interested parties
-    - **Status:** Internal Draft
-    - **How you can help:** Join [#presence-v2:zirco.dev] and participate in discussion about Selective Presence.
+- 🚧 **[MSC4495: Selective Presence][MSC4495]**, reducing load by only sharing presence with interested parties
+    - **Status:** Proposal (Community Review)
+    - **How you can help:** Provide review on [MSC4495] on the MSC tracker.
+    - **Implementations:**
+      - 🚧 **Server:** [Continuwuity] (WIP)
+      - 🚧 **Client:** [Sable Client] (WIP)
 - 🚧 **Incremental Presence**, reducing load by increasing presence TTLs and providing batching behavior
     - **Status:** Concept
+    - **How you can help:** Join [#presence-v2:zirco.dev] and participate in discussion and design conversations
 - 🔲 **Sliding Sync Extension: Presence**, reducing client-server sync traffic for users not regularly viewed
     - **Status:** Concept
 - 🔲 **Fetchable Presence**, allowing users to publish presence data without pushing to every possible user
@@ -50,8 +54,10 @@ Last updated <span id="last-updated-ago"></span> ago (<span id="last-updated-ts"
 
 [Matrix]: https://matrix.org/
 [Continuwuity]: https://continuwuity.org/
+[Sable Client]: https://sable.moe/
 [#presence-v2:zirco.dev]: https://matrix.to/#/#presence-v2:zirco.dev
 [#3971]: https://github.com/matrix-org/synapse/issues/3971
 [#9339]: https://github.com/matrix-org/synapse/issues/9339
 [#9478]: https://github.com/matrix-org/synapse/issues/9478
 [github]: https://github.com/thetayloredman/ispresencefixedyet.com
+[MSC4495]: https://github.com/matrix-org/matrix-spec-proposals/pull/4495
