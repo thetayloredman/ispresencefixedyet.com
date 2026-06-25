@@ -1,4 +1,4 @@
-[![Matrix](https://matrix.org/images/matrix-logo-white.svg)](https://matrix.org) [Is Presence Fixed Yet?](/)
+[![Matrix](https://matrix.org/images/matrix-logo-white.svg)](https://matrix.org) ![Presence v2 Logo](/assets/logo.png) [Is Presence Fixed Yet?](/)
 
 # Presence v2 Hall of Fame
 
@@ -39,7 +39,8 @@ of which the following contributed:
 
 * To HarHarLinks, for [MSC4325](https://github.com/matrix-org/matrix-spec-proposals/pull/4325) which heavily
   inspired Selective Presence.
-* To vicky and mangotcf, for providing emotional support through the many discussions
+* To vicky, for emotional support & the Presence v2 logo/room icons
+* To mangotcf, for emotional support
 
 ### Long-Lived & Batched Presence
 
