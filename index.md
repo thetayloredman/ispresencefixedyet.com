@@ -43,7 +43,8 @@ presence data is sent.
 
 Revised Social Presence is a proposal to remodel presence information to better support social use cases, including
 overrides and a `busy` status. This proposal also makes major improvements in privacy, alongside fixing some
-long-standing visual bugs.
+long-standing visual bugs. A [complementary post](/analysis) is also available to show the positive impacts Revised
+Social Presence will have on the Matrix ecosystem.
 
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients/servers
