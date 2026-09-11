@@ -35,7 +35,7 @@ presence data is sent.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients/servers
 - **Implementations:**
-    - 🚧 **Ruma:** [#2546](https://github.com/ruma/ruma/pull/2546) (merged)
+    - ✅ **Ruma:** [#2546](https://github.com/ruma/ruma/pull/2546) (merged)
     - 🚧 **[Continuwuity]**: [#2034](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034) (open)
     - 🔲 **Client:** TBD
 
@@ -49,7 +49,7 @@ Social Presence will have on the Matrix ecosystem.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients/servers
 - **Implementations:**
-    - 🚧 **Ruma:** [WIP branch](https://github.com/thetayloredman/ruma/tree/ln/msc4532)
+    - 🚧 **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (draft)
     - 🚧 **[Continuwuity]:** WIP
     - 🔲 **Client:** TBD
 
