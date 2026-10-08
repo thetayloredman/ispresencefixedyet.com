@@ -33,7 +33,7 @@ them. Alongside our other proposals, this will both create a new privacy model f
 presence data is sent.
 
 - **Status:** Proposal (Community Review)
-- **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients/servers
+- **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
     - ✅ **Ruma:** [#2546](https://github.com/ruma/ruma/pull/2546) (merged)
     - 🚧 **[Continuwuity]**: [#2034](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034) (open)
@@ -47,20 +47,24 @@ long-standing visual bugs. A [complementary post](/analysis) is also available t
 Social Presence will have on the Matrix ecosystem.
 
 - **Status:** Proposal (Community Review)
-- **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients/servers
+- **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
     - 🚧 **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (draft)
     - 🚧 **[Continuwuity]:** WIP
     - 🔲 **Client:** TBD
 
-### Sliding Sync Extension: Presence
+### [MSC4559: Sliding Sync Extensions: Presence][MSC4559]
 
-We are exploring a [Sliding Sync (MSC4186)][sliding-sync] extension to reduce the amount of presence data sent
-to clients. This would allow clients to only receive presence for users they are actively viewing, resulting in
-reduced bandwidth usage and improved performance for clients.
+We've also authored a [Sliding Sync (MSC4186)][sliding-sync] extension to further reduce the overhead of syncing
+presence changes to clients, alongside making implementing presence possible for those clients already using
+Sliding Sync. This allows clients to only receive presence for users they are actively concerned with, resulting
+in reduced bandwidth usage and improved performance.
 
-- **Status:** Concept
-- **How you can help:** Join [#presence-v2:zirco.dev] and participate in discussion and design conversations
+- **Status:** Proposal (Community Review)
+- **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
+- **Implementations:**
+    - 🔲 **Server:** TBD
+    - 🔲 **Client:** TBD
 
 ### Fetchable Presence
 
@@ -104,5 +108,6 @@ Last updated <span id="last-updated-ago"></span> ago (<span id="last-updated-ts"
 [github]: https://github.com/thetayloredman/ispresencefixedyet.com
 [MSC4495]: https://github.com/matrix-org/matrix-spec-proposals/pull/4495
 [MSC4532]: https://github.com/matrix-org/matrix-spec-proposals/pull/4532
+[MSC4559]: https://github.com/matrix-org/matrix-spec-proposals/pull/4559
 [presence-v1-rates]: https://github.com/matrix-org/matrix-spec-proposals/pull/4259/changes#r2858835260
 [sliding-sync]: https://github.com/matrix-org/matrix-spec-proposals/pull/4186
