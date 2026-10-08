@@ -33,7 +33,7 @@ them. Alongside our other proposals, this will both create a new privacy model f
 presence data is sent.
 
 - **Status:** Proposal (Community Review)
-- **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients/servers
+- **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
     - ✅ **Ruma:** [#2546](https://github.com/ruma/ruma/pull/2546) (merged)
     - 🚧 **[Continuwuity]**: [#2034](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034) (open)
@@ -47,7 +47,7 @@ long-standing visual bugs. A [complementary post](/analysis) is also available t
 Social Presence will have on the Matrix ecosystem.
 
 - **Status:** Proposal (Community Review)
-- **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients/servers
+- **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
     - 🚧 **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (draft)
     - 🚧 **[Continuwuity]:** WIP
@@ -56,12 +56,12 @@ Social Presence will have on the Matrix ecosystem.
 ### [MSC4559: Sliding Sync Extensions: Presence][MSC4559]
 
 We've also authored a [Sliding Sync (MSC4186)][sliding-sync] extension to further reduce the overhead of syncing
-presence changes to clients, alongside making implementing presence possible for those clients already utilizing
+presence changes to clients, alongside making implementing presence possible for those clients already using
 Sliding Sync. This allows clients to only receive presence for users they are actively concerned about, resulting
-in reduced bandwidth usage and improved performance for clients.
+in reduced bandwidth usage and improved performance.
 
 - **Status:** Proposal (Community Review)
-- **How you can help:** JProvide review on [MSC4559] on the MSC tracker, or implement it in clients/servers
+- **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
     - 🔲 **Server:** TBD
     - 🔲 **Client:** TBD
