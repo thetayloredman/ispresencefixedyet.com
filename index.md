@@ -57,7 +57,7 @@ Social Presence will have on the Matrix ecosystem.
 
 We've also authored a [Sliding Sync (MSC4186)][sliding-sync] extension to further reduce the overhead of syncing
 presence changes to clients, alongside making implementing presence possible for those clients already using
-Sliding Sync. This allows clients to only receive presence for users they are actively concerned about, resulting
+Sliding Sync. This allows clients to only receive presence for users they are actively concerned with, resulting
 in reduced bandwidth usage and improved performance.
 
 - **Status:** Proposal (Community Review)
