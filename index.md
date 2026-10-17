@@ -49,7 +49,7 @@ Social Presence will have on the Matrix ecosystem.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - 🚧 **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (draft)
+    - 🚧 **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (open)
     - 🚧 **[Continuwuity]:** WIP
     - 🔲 **Client:** TBD
 
@@ -63,6 +63,7 @@ in reduced bandwidth usage and improved performance.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
+    - 🚧 **Ruma:** [#2634](https://github.com/ruma/ruma/pull/2634) (draft)
     - 🔲 **Server:** TBD
     - 🔲 **Client:** TBD
 
