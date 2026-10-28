@@ -63,7 +63,7 @@ in reduced bandwidth usage and improved performance.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - 🚧 **Ruma:** [#2634](https://github.com/ruma/ruma/pull/2634) (open)
+    - ✅ **Ruma:** [#2634](https://github.com/ruma/ruma/pull/2634) (merged)
     - 🔲 **Server:** TBD
     - 🔲 **Client:** TBD
 
