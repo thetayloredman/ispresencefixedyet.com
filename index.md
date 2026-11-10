@@ -37,7 +37,7 @@ presence data is sent.
 - **Implementations:**
     - ✅ **Ruma:** since 0.16.0 ([#2546](https://github.com/ruma/ruma/pull/2546))
     - 🚧 **[Continuwuity]**: [#2034](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034) (open)
-    - 🔲 **Client:** TBD
+    - ✅ **Client:** [Sable](https://git.sable.moe/SableClient/sable-next/commit/dc8ce50622ccdf69f9dc65637401b8edd03a2409)
 
 ### [MSC4532: Revised Social Presence][MSC4532]
 
