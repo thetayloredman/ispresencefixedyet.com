@@ -34,19 +34,25 @@ of which the following contributed:
 
 * **[Continuwuity]**: nex, Ginger
 * **[Nexus Client]**: QuadRadical
-* **[Sable Client]**: 7w1
+* **[Sable Client]**: 7w1, Erwan Leboucher
 * Independent: stratself, HarHarLinks, Cat, 31a05b9c, CrazyNicc, gamesguru
 
 ## Implementations
 
 ### [MSC4495: Selective Presence][MSC4495]
 
-* **[Ruma][ruma-sel-pr]:** LogN
-  * Review: Kévin Commaille
-  * Review: lveneris
-* **[Continuwuity][cxy-sel-pr]:** LogN
-  * Review: nex
-  * Review: lveneris
+* **[Ruma][ruma-sel-pr]:** LogN, Kévin Commaille, lveneris
+* **[Continuwuity][cxy-sel-pr]:** LogN, nex, Ginger, lveneris
+* **[Sable][sable-sel]:** Erwan Leboucher
+
+### [MSC4532: Revised Social Presence][MSC4532]
+
+* **[Ruma][ruma-soc-pr]:** LogN, Kévin Commaille, lveneris
+* **[Continuwuity][cxy-soc-pr]:** Erwan Leboucher, LogN
+
+### [MSC4559: Sliding Sync Extensions: Presence][MSC4559]
+
+* **[Ruma][ruma-sss-pr]:** LogN, Kévin Commaille
 
 ## Special Thanks
 
@@ -61,5 +67,11 @@ of which the following contributed:
 [Nexus Client]: https://matrix.to/#/#nexus:federated.nexus
 [Sable Client]: https://sable.moe/
 [MSC4495]: https://github.com/matrix-org/matrix-spec-proposals/pull/4495
+[MSC4532]: https://github.com/matrix-org/matrix-spec-proposals/pull/4532
+[MSC4559]: https://github.com/matrix-org/matrix-spec-proposals/pull/4559
 [ruma-sel-pr]: https://github.com/ruma/ruma/pull/2546
+[ruma-soc-pr]: https://github.com/ruma/ruma/pull/2593
+[ruma-sss-pr]: https://github.com/ruma/ruma/pull/2634
 [cxy-sel-pr]: https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034
+[cxy-soc-pr]: https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2489
+[sable-sel]: https://git.sable.moe/SableClient/sable-next/commit/dc8ce50622ccdf69f9dc65637401b8edd03a2409
