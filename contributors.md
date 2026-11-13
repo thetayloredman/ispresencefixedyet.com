@@ -21,7 +21,6 @@ of which the following contributed:
 * stratself
 * gamesguru
 * nex (Continuwuity)
-* vel
 
 ## The Proposals
 
