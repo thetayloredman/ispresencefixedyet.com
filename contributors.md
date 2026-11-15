@@ -48,10 +48,12 @@ of which the following contributed:
 
 * **[Ruma][ruma-soc-pr]:** LogN, Kévin Commaille, lveneris
 * **[Continuwuity][cxy-soc-pr]:** Erwan Leboucher, LogN
+* **[Sable][sable-soc]:** Erwan Leboucher
 
 ### [MSC4559: Sliding Sync Extensions: Presence][MSC4559]
 
 * **[Ruma][ruma-sss-pr]:** LogN, Kévin Commaille
+* **[Continuwuity][cxy-sss-pr]:** Erwan Leboucher
 
 ## Special Thanks
 
@@ -73,4 +75,6 @@ of which the following contributed:
 [ruma-sss-pr]: https://github.com/ruma/ruma/pull/2634
 [cxy-sel-pr]: https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034
 [cxy-soc-pr]: https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2489
+[cxy-sss-pr]: https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2507
 [sable-sel]: https://git.sable.moe/SableClient/sable-next/commit/dc8ce50622ccdf69f9dc65637401b8edd03a2409
+[sable-soc]: https://git.sable.moe/SableClient/sable-next/commit/d108cbc8017e2e06b1b187bcf2fef66c7ff212f0
