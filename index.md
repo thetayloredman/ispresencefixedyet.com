@@ -35,7 +35,7 @@ presence data is sent.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4495] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - ✅ **Ruma:** since 0.16.0 ([#2546](https://github.com/ruma/ruma/pull/2546))
+    - ✅ **[Ruma]:** since 0.16.0 ([#2546](https://github.com/ruma/ruma/pull/2546))
     - 🚧 **[Continuwuity]**: [#2034](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2034) (open)
     - ✅ **Client:** [Sable](https://git.sable.moe/SableClient/sable-next/commit/dc8ce50622ccdf69f9dc65637401b8edd03a2409)
 
@@ -49,9 +49,9 @@ Social Presence will have on the Matrix ecosystem.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - ✅ **Ruma:** [#2593](https://github.com/ruma/ruma/pull/2593) (merged)
-    - 🚧 **[Continuwuity]:** WIP
-    - 🔲 **Client:** TBD
+    - ✅ **[Ruma]:** [#2593](https://github.com/ruma/ruma/pull/2593) (merged)
+    - 🚧 **[Continuwuity]:** [#2489](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2489) (open)
+    - ✅ **Client:** [Sable](https://git.sable.moe/SableClient/sable-next/commit/d108cbc8017e2e06b1b187bcf2fef66c7ff212f0)
 
 ### [MSC4559: Sliding Sync Extensions: Presence][MSC4559]
 
@@ -63,8 +63,8 @@ in reduced bandwidth usage and improved performance.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - ✅ **Ruma:** [#2634](https://github.com/ruma/ruma/pull/2634) (merged)
-    - 🔲 **Server:** TBD
+    - ✅ **[Ruma]:** [#2634](https://github.com/ruma/ruma/pull/2634) (merged)
+    - 🚧 **[Continuwuity]:** [#2507](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2507) (open)
     - 🔲 **Client:** TBD
 
 ### Fetchable Presence
@@ -102,6 +102,7 @@ Last updated <span id="last-updated-ago"></span> ago (<span id="last-updated-ts"
 
 [Matrix]: https://matrix.org/
 [Continuwuity]: https://continuwuity.org/
+[Ruma]: https://ruma.dev/
 [#presence-v2:zirco.dev]: https://matrix.to/#/#presence-v2:zirco.dev
 [#3971]: https://github.com/matrix-org/synapse/issues/3971
 [#9339]: https://github.com/matrix-org/synapse/issues/9339
