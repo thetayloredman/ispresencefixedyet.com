@@ -49,7 +49,7 @@ Social Presence will have on the Matrix ecosystem.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4532] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - ✅ **[Ruma]:** [#2593](https://github.com/ruma/ruma/pull/2593) (merged)
+    - ✅ **[Ruma]:** since 0.18.0 ([#2593](https://github.com/ruma/ruma/pull/2593))
     - 🚧 **[Continuwuity]:** [#2489](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2489) (open)
     - ✅ **Client:** [Sable](https://git.sable.moe/SableClient/sable-next/commit/d108cbc8017e2e06b1b187bcf2fef66c7ff212f0)
 
@@ -63,7 +63,7 @@ in reduced bandwidth usage and improved performance.
 - **Status:** Proposal (Community Review)
 - **How you can help:** Provide review on [MSC4559] on the MSC tracker, or implement it in clients and servers
 - **Implementations:**
-    - ✅ **[Ruma]:** [#2634](https://github.com/ruma/ruma/pull/2634) (merged)
+    - ✅ **[Ruma]:** since 0.18.0 ([#2634](https://github.com/ruma/ruma/pull/2634))
     - 🚧 **[Continuwuity]:** [#2507](https://forgejo.ellis.link/continuwuation/continuwuity/pulls/2507) (open)
     - 🔲 **Client:** TBD
 
